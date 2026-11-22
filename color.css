@@ -1,0 +1,13 @@
+body{
+    background-color: lavender; text-align: center; font-size: larger;
+}
+h1{
+    color: royalblue; font-family: Georgia, 'Times New Roman', Times, serif; background-color: silver;
+}
+h2{
+    color: navy; font-family: Georgia, 'Times New Roman', Times, serif
+}
+footer{
+    background-color: silver;
+}
+
