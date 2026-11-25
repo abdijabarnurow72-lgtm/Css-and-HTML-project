@@ -6,7 +6,7 @@ body{
 }
 .data{
     background-color: whitesmoke;
-    width: 450px;
+    width: 400px;
     margin: auto;
     padding: 26px;
     border-radius: 15px;
@@ -27,26 +27,30 @@ h3{
 }
 label{
     display: block;
-    margin-top: 6px;
+    margin-top: 30px;
 }
 textarea, select, input{
     width: 100%;
     padding: 13px;
-    margin-top: 5;
+    margin-top: 5px;
     border: 1px solid rgb(67, 67, 66);
     border-radius: 5px;
     box-sizing: border-box;
 }
 .radio input, .checkbox input{
     width: auto;
+   
 }
 .radio, .checkbox{
 margin-top: 10px;
+display: block;
 cursor: pointer;
 }
+
 textarea{
     height: auto;
 }
+
 button{
     background-color:blue ;
     padding: 10px 20px;
